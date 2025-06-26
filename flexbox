@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meet the Team</title>
+  <link rel="stylesheet" href="flexbox.css">
+ 
+</head>
+<body>
+
+  <div class="team-container">
+    <div class="team-card">
+      <img src="image/me.jpg" alt="Varun Gaur">
+      <h3>Varun Gaur</h3>
+      <h4>Frontend Developer</h4>
+      <p>Expert in HTML, CSS, and JavaScript. Loves crafting beautiful and responsive interfaces.</p>
+    </div>
+    <div class="team-card">
+      <img src="image/alok.jpg" alt="Alok Bhaduria">
+      <h3>Alok Bhaduria</h3>
+      <h4>Backend Developer</h4>
+      <p>Specializes in server-side logic and databases. Keeps everything running smoothly.</p>
+    </div>
+    <div class="team-card">
+      <img src="image/sar.jpg" alt="Saransh">
+      <h3>Saransh </h3>
+      <h4>UI/UX Designer</h4>
+      <p>Passionate about user experience and interface design. Turns ideas into wireframes.</p>
+    </div>
+    <div class="team-card">
+      <img src="https://wallpapers.com/images/hd/cool-kakashi-glitch-art-dywbx8lcim6hvqlu.jpg" alt="Kakashi Hatake">
+      <h3>Kakashi Hatake</h3>
+      <h4>DevOps Engineer</h4>
+      <p>Handles deployment, cloud infrastructure, and automation with efficiency and care.</p>
+    </div>
+  </div>
+
+</body>
+</html>
